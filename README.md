@@ -3,6 +3,9 @@
 # Portfolio
 List of all the important repositories present in this GitHub account
 
+* ### Using Transfer Learning and Pre-trained CNN to predict the type of a flower.
+https://github.com/arunabh15091989/flower-image-classifier
+
 * ### Classification of Fashion Item on FMNIST Dataset(Kaggle) using pytorch and a fully conceted multi-layer preceptron:
 https://github.com/arunabh15091989/FMnist-Classifier-using-PyTorch
 
